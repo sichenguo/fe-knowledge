@@ -2,7 +2,7 @@
 
 ## 前端基础
 
-### HTML && 浏览器
+### HTML
 
 - 行内元素、块级元素
 - 跨标签页通信
@@ -11,8 +11,13 @@
 - 事件模型
 - 缓存策略
 - 浏览器架构
-- 浏览器工作原理
 - 内存泄漏
+
+### 浏览器
+
+- [浏览器工作原理与实践](https://github.com/poetries/browser-working-principle)
+- [深入理解现代浏览器](https://mp.weixin.qq.com/s/h8bMsMwqw-omV9w5QqqvFQ)
+- [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 ### CSS
 
@@ -33,6 +38,7 @@
 
 ### JavaScript
 
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 - 原型链
 - 继承
 - 作用域
@@ -45,11 +51,16 @@
 - 柯里化
 - V8 垃圾回收原理
 - new 操作符
-- 事件循环机制
+- [事件循环机制](https://lynnelv.github.io/js-event-loop-browser)
 - promise 原理
 - generator 原理
 - 服务端编程
 - Ajax 相关
+
+### TypeScript
+
+- [官方文档](https://typescript.bootcss.com/interfaces.html)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 ### 手写代码系列
 
@@ -175,6 +186,12 @@
 - 死锁
 - IO 多路复用
 
+### 计算机基础
+
+- RSA 加密
+- 非对称加密
+  s
+
 ### 网络
 
 - 七层网络模型
@@ -188,6 +205,8 @@
 
 ## 优质复习资料
 
-[知识体系思维导图](https://orime.github.io/what-is-fe/)
+- [知识体系思维导图](https://orime.github.io/what-is-fe/)
 
-[字节~前端(2021)年后面试真题，会 80%直接进大厂](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
+- [字节~前端(2021)年后面试真题，会 80%直接进大厂](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
+- [常见面试题](https://github.com/poetries/FE-Interview-Questions)
+- [面试题-寻找海蓝](https://www.cxymsg.com/guide/#%E6%A8%A1%E5%9D%97%E6%A6%82%E8%A7%88)
